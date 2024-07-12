@@ -10,8 +10,6 @@ You can create new users, update existing users, get a list of all users, search
 ## Discussions
 You can create new discussions, get all discussions, update a discussion, search discussions based on tags and text
 
-* **Create users** (_not implemented_).
-* **Read users** (_not implemented_).
 """
 
 app = FastAPI(
